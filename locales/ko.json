@@ -732,4 +732,4 @@
       "failureMessage": "다음 중 하나를 수정하세요:{{~it:value}}\n  {{=value.split('\\n').join('\\n  ')}}{{~}}"
     }
   }
-}
+} 
